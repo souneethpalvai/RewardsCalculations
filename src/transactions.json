@@ -1,0 +1,38 @@
+{
+  "customersTransactionData": [
+    {
+      "cName": "john",
+      "monthlyTransactionData": [
+        {
+          "billingMonth": "JAN",
+          "billAmounts": [50, 1200, 80, 1800, 210]
+        },
+        {
+          "billingMonth": "FEB",
+          "billAmounts": [100, 200, 300, 400]
+        },
+        {
+          "billingMonth": "MARCH",
+          "billAmounts": [60]
+        }
+      ]
+    },
+    {
+      "cName": "jack",
+      "monthlyTransactionData": [
+        {
+          "billingMonth": "JAN",
+          "billAmounts": [20, 800, 80, 1400, 210]
+        },
+        {
+          "billingMonth": "FEB",
+          "billAmounts": [100]
+        },
+        {
+          "billingMonth": "MARCH",
+          "billAmounts": [150, 250, 350, 450]
+        }
+      ]
+    }
+  ]
+}
